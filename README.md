@@ -1,7 +1,7 @@
-# wpsedu
+# wpsedu · WPS 教学平台刷课工具
 
-WPS 教学平台（`edu.wps.cn/app/study-platform`）的命令行 + 本地 Web 控制台工具：
-多账号、课程进度盘点、批量把「学习任务」置为已完成，并把视频类任务从"要看完"变成"一两秒"。
+**刷课工具**：WPS 教学平台（`edu.wps.cn/app/study-platform`）的命令行 + 本地 Web 控制台。
+多账号、课程进度盘点、批量把「学习任务」置为已完成，视频类任务从"要看完"变成"一两秒"。
 
 只依赖 Python 标准库 + [`cryptography`](https://pypi.org/project/cryptography/)。
 

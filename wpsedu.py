@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""wpsedu - WPS 教学平台 (edu study-platform) 通用刷课工具
+"""wpsedu - WPS 教学平台刷课工具 (edu study-platform 刷课 CLI)
 
 账号（多账号，任意账号）
   python wpsedu.py login-browser --account NAME                  # 工具自开浏览器，登录后自动取走 cookie（不用关窗）

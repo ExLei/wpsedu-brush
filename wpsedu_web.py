@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""wpsedu 简易 Web UI —— 本地单页控制台
+"""wpsedu 刷课工具的简易 Web UI —— 本地单页控制台
 
   python wpsedu_web.py                # http://127.0.0.1:8765
   python wpsedu_web.py --port 9000 --no-browser
