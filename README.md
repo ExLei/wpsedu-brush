@@ -18,7 +18,7 @@
 
 ```bash
 python -m pip install cryptography
-git clone https://github.com/<you>/wpsedu.git && cd wpsedu
+git clone https://github.com/ExLei/wpsedu-brush.git && cd wpsedu-brush
 ```
 
 Python 3.9+，Windows（cookie 解密用到 DPAPI）。
