@@ -1,0 +1,31 @@
+# 凭据与账号
+accounts/
+cookies.json
+edu-token.json
+*token*.json
+!package-lock.json
+
+# 抓包与逆向产物
+*.pcapng
+*.pcap
+sslkeys.log
+mitm-*.jsonl
+decoded*/
+objs/
+bodies/
+*.har
+*.saz
+
+# 运行产物
+*.log
+*.out
+run*.json
+last-probe.*
+webui*.png
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
